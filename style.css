@@ -2,12 +2,23 @@ body {
   background-color: #ff0000;  
 }
 
-.Main {
-    text-align: center;
+
+.Heading {
+  text-align: center;
 }
 
-.Picture {
-    text-align: center;
-    height: 1;
-    width: 1;
+
+.Blog {
+  border: 5px solid #05ffb0;
+  margin-right: 300;
+  margin-left: 300;
+  margin-bottom: 100;
+  text-align: center;
+}
+
+.Image {
+  background-image: url('Monke.png');
+  color: white;
+  height: 250px;
+  text-align: center;
 }
