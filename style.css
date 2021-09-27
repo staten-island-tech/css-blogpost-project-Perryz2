@@ -1,24 +1,36 @@
 body {
-  background-color: #ff0000;  
+  background-color: #ff6e40;  
 }
 
 
 .Heading {
   text-align: center;
+  font-size: 30px;
 }
 
+.head {
+  font-size: 40px;
+}
 
 .Blog {
-  border: 5px solid #05ffb0;
-  margin-right: 300;
-  margin-left: 300;
-  margin-bottom: 100;
+  border: 5px solid #1e3d59;
+    width: 40vw;
+    text-align: center;
+  border-radius: 10px;
+  background-color: #f5f0e1;
+  margin-right: 550;
+  margin-left: 550;
+  margin-bottom: 150;
   text-align: center;
 }
 
 .Image {
   background-image: url('Monke.png');
-  color: white;
-  height: 250px;
+  color: #ef9def;;
+  height: 200px;
   text-align: center;
 }
+
+
+/* 05ffb0 */
+/* ff6e40 */
