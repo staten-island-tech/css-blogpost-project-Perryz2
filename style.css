@@ -1,11 +1,19 @@
 body {
   background-color: #ff6e40;  
+  font-family: 'Roboto', sans-serif;
 }
 
 
 .Heading {
   text-align: center;
-  font-size: 30px;
+  font-size: 25px;
+  border: 5px solid #1e3d59;
+    width: 40vw;
+    text-align: center;
+  margin-right: 550;
+  margin-left: 550;
+  margin-bottom: 150;
+  border-radius: 10px;
 }
 
 .head {
@@ -27,7 +35,7 @@ body {
 .Image {
   background-image: url('Monke.png');
   color: #ef9def;;
-  height: 200px;
+  height: 230px;
   text-align: center;
 }
 
