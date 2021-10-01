@@ -16,8 +16,9 @@ body {
   border-radius: 10px;
 }
 
-.head {
+.title {
   font-size: 40px;
+  margin-bottom: 100;
 }
 
 .Blog {
@@ -35,10 +36,8 @@ body {
 .Image {
   background-image: url('Monke.png');
   color: #ef9def;;
-  height: 230px;
+  height: 200px;
   text-align: center;
+  margin-bottom: 75;
 }
 
-
-/* 05ffb0 */
-/* ff6e40 */
